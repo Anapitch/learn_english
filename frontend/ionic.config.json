@@ -1,0 +1,7 @@
+{
+  "name": "demo40",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
